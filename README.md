@@ -1,2 +1,2 @@
-# juego-numeros
+# Juego adivina el número
 Implemetacion del juego
